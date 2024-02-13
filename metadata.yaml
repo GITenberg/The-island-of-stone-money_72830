@@ -1,0 +1,31 @@
+_repo: The-island-of-stone-money_72830
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Furness, William Henry
+    birthdate: 1866
+    deathdate: 1920
+    gutenberg_agent_id: '34457'
+    url: http://www.gutenberg.org/2009/agents/34457
+    wikipedia: https://en.wikipedia.org/wiki/William_Henry_Furness_III
+description: ''
+gutenberg_issued: '2024-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72830'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924023500543
+pgterms:marc905: 20220819113701furness
+pgterms:marc906: '1910'
+pgterms:marc907: us
+production_note: Peter Becker, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aPhiladelphia :$bJ.B. Lippincott Company, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The island of stone money
+url: http://www.gutenberg.org/ebooks/72830
